@@ -1,8 +1,7 @@
-## Testes de Sistema do Billing (Front + Backend)
+## Testes de Sistema
 
-Repositório voltado para os testes de sistema da squad Billing.
+Repositório voltado para os testes de sistema.
 Ferramentas utilizadas: Ruby, Cucumber, Capybara, HttParty.
-
 
 ---
 
